@@ -1,0 +1,18 @@
+- title: "Publications"
+  href: "/Publications/"
+
+- title: "Team"
+  href: "/team/"
+
+- title: "Talks"
+  href: "/talks/"
+
+# - title: "Submenu"
+#   subcategories:
+#     - subtitle: "Item 1"
+#       subhref: "/misc/item-1/"
+#     - subtitle: "Item 2"
+#       subhref: "/misc/item-2/"
+
+- title: "Blog"
+  href: "/blog/"
